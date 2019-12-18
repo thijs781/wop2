@@ -1,5 +1,5 @@
-import finalproject.snelheid as snl
-import finalproject.traject as tj
+import snelheid as snl
+import traject as tj
 import numpy as np
 import matplotlib.pyplot as plt
 
